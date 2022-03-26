@@ -1,0 +1,5 @@
+C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/qml_transitions.dir
+C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/qml_transitions_autogen_timestamp_deps.dir
+C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/qml_transitions_autogen.dir

@@ -1,0 +1,95 @@
+# ninja log v5
+6	1176	669999498	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/timestamp	4ac27c6e2db07d7b
+6	1176	669999498	qml_transitions_autogen/timestamp	4ac27c6e2db07d7b
+6	1176	669999498	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/mocs_compilation.cpp	4ac27c6e2db07d7b
+5	1359	670006514	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	1176	669999498	qml_transitions_autogen/mocs_compilation.cpp	4ac27c6e2db07d7b
+5	1359	670006514	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+2051	8304	669999506	CMakeFiles/qml_transitions.dir/main.cpp.obj	f333bb3e59637160
+2043	2448	669999500	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/mocs_compilation.cpp.obj	36d18e7b166fca25
+1360	2315	670006515	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+2316	5049	670006517	qml_transitions.exe	c251398008e21d02
+6	953	670006547	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	953	670006547	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+953	1185	670006547	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+1186	1765	670006548	qml_transitions.exe	c251398008e21d02
+5	230	670006576	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+5	230	670006576	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+230	420	670006576	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+420	1066	670006577	qml_transitions.exe	c251398008e21d02
+6	236	670006590	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	236	670006590	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+237	422	670006590	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+423	1225	670006590	qml_transitions.exe	c251398008e21d02
+6	211	670006615	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	211	670006615	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+211	1126	670006616	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+1126	1819	670006617	qml_transitions.exe	c251398008e21d02
+6	341	670006662	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	341	670006662	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+342	536	670006662	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+538	2211	670006664	qml_transitions.exe	c251398008e21d02
+6	371	670006706	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	371	670006706	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+372	601	670006707	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+602	2037	670006708	qml_transitions.exe	c251398008e21d02
+6	401	670006733	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	401	670006733	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+401	642	670006734	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+643	1214	670006734	qml_transitions.exe	c251398008e21d02
+7	419	670006875	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+7	419	670006875	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+420	591	670006875	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+592	1565	670006876	qml_transitions.exe	c251398008e21d02
+6	192	670006915	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	192	670006915	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+192	906	670006916	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+906	1429	670006916	qml_transitions.exe	c251398008e21d02
+6	192	670007114	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	192	670007114	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+192	404	670007115	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+405	1417	670007115	qml_transitions.exe	c251398008e21d02
+5	192	670007147	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+5	192	670007147	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+193	421	670007148	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+422	1287	670007149	qml_transitions.exe	c251398008e21d02
+6	199	670007304	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	199	670007304	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+199	390	670007304	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+391	1151	670007304	qml_transitions.exe	c251398008e21d02
+6	160	670007311	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	160	670007311	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+160	388	670007312	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+390	1030	670007312	qml_transitions.exe	c251398008e21d02
+6	203	670007438	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	203	670007438	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+203	448	670007438	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+448	1411	670007439	qml_transitions.exe	c251398008e21d02
+6	187	670007510	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	187	670007510	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+188	399	670007510	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+400	1308	670007511	qml_transitions.exe	c251398008e21d02
+6	217	670007761	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	217	670007761	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+217	497	670007762	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+497	1385	670007762	qml_transitions.exe	c251398008e21d02
+6	196	670007803	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	196	670007803	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+196	377	670007803	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+378	1333	670007804	qml_transitions.exe	c251398008e21d02
+5	249	670007851	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+5	249	670007851	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+250	457	670007851	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+458	1393	670007852	qml_transitions.exe	c251398008e21d02
+5	199	670007868	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+5	199	670007868	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+200	399	670007868	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+400	1433	670007869	qml_transitions.exe	c251398008e21d02
+6	203	670007948	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	203	670007948	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+204	397	670007948	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+398	1143	670007949	qml_transitions.exe	c251398008e21d02
+6	203	670007984	qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+6	203	670007984	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp	10973ff8c52a3e6a
+204	397	670007984	CMakeFiles/qml_transitions.dir/qml_transitions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	e5eb2f0e3fe6840
+398	1339	670007985	qml_transitions.exe	c251398008e21d02

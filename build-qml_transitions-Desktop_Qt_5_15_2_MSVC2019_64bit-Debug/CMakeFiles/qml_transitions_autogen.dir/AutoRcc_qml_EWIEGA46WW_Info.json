@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/qml_transitions",
+	"CMAKE_SOURCE_DIR" : "C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/qml_transitions",
+	"INCLUDE_DIR" : "C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/qml_transitions_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/qml_transitions/main.qml"
+	],
+	"LOCK_FILE" : "C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/qml_transitions_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.2/msvc2019_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/build-qml_transitions-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/qml_transitions_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.1 qml ball transitions/qml_transitions/qml.qrc",
+	"VERBOSITY" : 0
+}
